@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+  background-image: url("https://th.bing.com/th/id/R.5e3bb2149e1df4672230018e41817874?rik=uLCMT4tulzAIcg&pid=ImgRaw&r=0");
+background-size: cover;
+}
+
+h1{
+    
+    font-size: 70px;
+    color: rgb(117, 32, 138);
+}
+h2{
+    
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+h3{
+    color: white
+}
+p{
+    color: rgb(82, 46, 87)
+}
+.todo{
+    font-size: 30px;
+    color: rgb(119, 63, 119)
+}
+.heroo{
+    width: 100%;
+    height: 60%;
+    padding: 20%;
+    
+    margin: 0px;
+    background-color: rgb(201, 181, 219);
+}
+
+
+
+.primera{
+    
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center
+    
+}
+
+.segundo{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center
+
+}
+
+.tres{
+    text-align: center
+}
+
+.cuarto{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center
+
+}
+
+.quinto{
+    display: flex;
+
+}
+
+.ROW{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    Padding-bottom: 50px;
+    gap: 50px;
+}
+
+
+.sexto{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+    text-align: center;
+    gap: 50px;
+}
+
+.septimo{
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    justify-content: center;
+    
+    
+    text-align: center
+
+}
+
+.ocho{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+
+
+    justify-content: space-between;
+}
+.nueve{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+
+     padding-left: 40%;
+    padding-right: 40%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+    justify-content: space-between;
+    
+    
+
+}
+.margenB{
+    padding: 3px;
+}
+
+.might{
+   display:block;
+   flex-direction: column; 
+   padding-top: 50px;
+  
+   padding-bottom: 50px;
+}
+
+
+.fondo{
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    
+
+    color: aquamarine;
+    justify-content: center;
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.aP0X7YpBIc9m7u0hUUWnUgHaLG?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
+    
+}
+
+.line{
+     display: flex;
+    justify-content: center;
+}
+
+.about{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+
+    
+    justify-content: center;
+    gap: 50px;
+    
+}
+
+.about .infoabout{
+    
+    width: 50%;
+}
+.about .img{
+    width: 50%;
+}
+
+.nav{
+   display: flex;
+
+   
+
+   justify-content: flex-end;
+
+
+} 
+
+
+
+
+
+
+
+/* .divertido{
+    display: flex;
+    font-size: 50px;
+    color: aquamarine; */
+    /* background-color: rgb(0, 140, 255); */
+    /* background-image: url(https://img.freepik.com/fotos-premium/fondo-diagonal-espacio-copia_1179130-432939.jpg);
+    display: block;
+    
+};
+
